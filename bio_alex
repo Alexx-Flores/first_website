@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+    <h1 id="main_header" class="header">Alex's Bio</h1>
+
+    <h3 class="header">Welcome to my biography!</h3>
+
+    
+        <img src="https://image.cnbcfm.com/api/v1/image/101095518-135165692.jpg?v=1532564620&w=630&h=354&ffmt=webp&vtcrop=y">
+
+    <hr>
+
+    <h3>My friends:</h3>
+    <ul>
+        <li>Alexander Booth</li>
+        <li>Farzaad Hosseinali</li>
+        <li>Sean Fleming</li>
+    </ul>
+
+    <h3>What I do for fun:</h3>
+    <table border=1>
+        <thead>
+            <tr>
+                <th>Hobbies</th>
+                <th>Am I good at this?</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Coding</td>
+                <td>Not really</td>
+            </tr>
+            <tr>
+                <td>Sleeping</td>
+                <td>Extremely</td>
+            </tr>
+            <tr>
+                <td>Lifting</td>
+                <td>Getting there</td>
+            </tr>
+            <tr>
+                <td>Reading</td>
+                <td>Very much so</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <h3>A little bit about me:</h3>
+
+    <p> I am 24 years old and I was born in Dallas, Texas, where I am hoping to move from soon since I have been here all my life.</p>
+
+    <p>I have a bachelor's degree in Health Care Administration and afterward went to nursing school but then realized it was not for me. :(.</p>
+
+    <p>I ended up reading about tech and became curious about the #techlife so I went through a rabbithole and stumbled upon this program. I am hoping to be able to succeed in this program to start a career where I have room to grow, learn, and be successful!</p>
+
+
+
+
+</html>
